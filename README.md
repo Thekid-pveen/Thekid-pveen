@@ -8,8 +8,7 @@
 -     RESOURCE HERE:
 -     I can definitely share data via remote communication with you!
 - 📫 How to reach me ...
-- 🔗 https://www.linkedin.com/in/pveenlinkup/
-- 🌳 https://linktr.ee/pveen 
+-     I'm Interested  to make projects with you!
 
 <!---
 Thekid-pveen/Thekid-pveen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
