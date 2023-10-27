@@ -104,7 +104,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/thekid-pveen/thekid-pveen/output/snake.svg" alt="Snake animation" />
-
-###
