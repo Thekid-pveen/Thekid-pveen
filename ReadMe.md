@@ -88,7 +88,7 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=praveen-pravee&locale=en&mode=daily&theme=highcontrast&hide_border=false&border_radius=19&order=3" height="200" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=praveen-pravee&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=false&border_radius=19&order=1" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=praveen-pravee&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=highcontrast&hide_border=false&border_radius=19&order=2" height="180" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=praveen-pravee&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=highcontrast&hide_border=false&border_radius=19&order=2" height="200" alt="languages graph"  />
 </div>
 
 ###
