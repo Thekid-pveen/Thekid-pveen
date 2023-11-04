@@ -100,7 +100,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://hackernoon.com/images/f2px36fy.gif"  />
+  <img height="200" src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif"  />
 </div>
 
 ###
