@@ -100,7 +100,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif"  />
+  <img width="400" height="250" src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif"  />
 </div>
 
 ###
