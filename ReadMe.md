@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm a programmer, hacker, developer, and self-leaner. I am twenty-one years old.  I still learning about my interests in the world. I trust the process.</p>
+<p align="left">I'm a programmer, hacker, developer, and self-leaner. I was learning about my interests in the world. I am passionate about Web Development and Cyber Security. I trust the process.</p>
 
 ###
 
