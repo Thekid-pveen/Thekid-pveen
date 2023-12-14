@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm a programmer, hacker, developer, and self-leaner. I was learning about my interests in the world. I am passionate about Web Development and Cyber Security. Don't stop learning, because life teaching every day. Just I do <code>what like or what you love</code>. I trust the process.</p>
+<p align="left">I'm a programmer, hacker, developer, and self-leaner. I was learning about my interests in the world. I am passionate about Web Development and Cyber Security. Don't stop learning, because life teaches every day. Just I do <code>what you like or what you love</code>. I trust the process.</p>
 
 ###
 
